@@ -1,0 +1,7 @@
+.cardBody{
+    margin: 10px 200px 20px 150px;
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+    outline: 2px solid black;
+}
